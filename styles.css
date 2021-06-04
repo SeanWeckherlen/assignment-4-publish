@@ -9,10 +9,6 @@ body{
     display:block;
 }
 
-#mainHeading {
-    
-}
-
 h2 {
     font-size: xx-large;
 }
@@ -27,6 +23,10 @@ h2 {
     margin: 20px;
     font-size: large;
 }
+
+img {
+    border: 5px solid black;
+} 
 
 #doberman {
     border: 5px solid black;
@@ -57,7 +57,6 @@ footer {
 ul {
     list-style: inside;
 }
-
 
 body {
 	background: linear-gradient(-45deg, #5283ee, #caccd4, #17566d, #23d5ab);
