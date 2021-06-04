@@ -20,6 +20,7 @@ h2 {
 #bio {
     border: 5px solid black;
     margin: 20px;
+    padding: 10px;
 }
 
 #bio-p {
